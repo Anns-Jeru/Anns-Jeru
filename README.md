@@ -11,4 +11,4 @@ Node.js · Express · MySQL · MongoDB · Flutter · Arduino
 
 ## 🔗 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/anns7178)
-- 🌐 [Portfolio](https://anns7178.github.io)
+- 🌐 [Portfolio](https://anns-jeru.github.io)
