@@ -1,6 +1,6 @@
 # Hi, I'm Anns Jerusha Princess D. 👋
-
-🎓 BCA Graduate — Stella Maris College, Chennai
+🎓 Pursuing Msc CyberSecurity and Artificial Intelligence - St.Joseph's University, Bangalore
+🎓 BCA Graduate - Stella Maris College, Chennai
 💻 Full-Stack Developer | IoT Enthusiast | Mobile App Builder
 📍 Chennai, Tamil Nadu
 📬 annsjerusha@gmail.com
