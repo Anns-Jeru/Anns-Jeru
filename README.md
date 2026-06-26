@@ -2,7 +2,7 @@
 🎓 Pursuing Msc CyberSecurity and Artificial Intelligence - St.Joseph's University, Bangalore
 🎓 BCA Graduate - Stella Maris College, Chennai
 💻 Full-Stack Developer | IoT Enthusiast | Mobile App Builder
-📍 Chennai, Tamil Nadu
+📍 Bangalore, Karnataka
 📬 annsjerusha@gmail.com
 
 ## 🛠 Tech Stack
