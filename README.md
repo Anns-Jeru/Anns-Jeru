@@ -1,14 +1,14 @@
-# Hi, I'm Anns Jerusha Princess D. 👋
-🎓 Pursuing Msc CyberSecurity and Artificial Intelligence - St.Joseph's University, Bangalore
-🎓 BCA Graduate - Stella Maris College, Chennai
-💻 Full-Stack Developer | IoT Enthusiast | Mobile App Builder
-📍 Bangalore, Karnataka
-📬 annsjerusha@gmail.com
+ Hi, I'm Anns Jerusha Princess D
+ Pursuing Msc CyberSecurity and Artificial Intelligence - St.Joseph's University, Bangalore
+ BCA Graduate - Stella Maris College, Chennai
+ Full-Stack Developer | IoT Enthusiast | Mobile App Builder
+ Bangalore, Karnataka
+ annsjerusha@gmail.com
 
-## 🛠 Tech Stack
+ Tech Stack
 C · Java · Python · PHP · HTML · CSS · JavaScript · React.js
-Node.js · Express · MySQL · MongoDB · Flutter · Arduino
+Node.js · Express · PostgreSQL · MongoDB · Flutter · Arduino
 
-## 🔗 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/anns7178)
-- 🌐 [Portfolio](https://anns-jeru.github.io)
+ Connect
+-  [LinkedIn](https://www.linkedin.com/in/anns7178)
+-  [Portfolio](https://anns-jeru.github.io)
