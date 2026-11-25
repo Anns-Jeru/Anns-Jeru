@@ -6,7 +6,7 @@
 
  Tech Stack
 C · Java · Python · PHP · HTML · CSS · JavaScript · React.js
-Node.js · Express · PostgreSQL · MongoDB · Flutter · Arduino
+Node.js · Express · PostgreSQL · MongoDB · Flutter 
 
  Connect
 -  [LinkedIn](https://www.linkedin.com/in/anns7178)
